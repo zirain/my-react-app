@@ -1,0 +1,8 @@
+site_name: "my-react-app"
+site_description: "my-react-app"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
